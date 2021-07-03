@@ -9,19 +9,9 @@ h3{
     text-align: center;
 }
 
-#same{
-    height: 30%;
-    width: 30%;
+.same img{
+    height: 40%;
+    width: 40%;
     margin: 5px;
 }
 
-#boss{
-    height: 40%;
-    width: 40%;
-    margin: 10px;
-}
-
-#Truck{
-    height: 100%;
-    width: 100%;
-}
